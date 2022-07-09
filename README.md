@@ -1,1 +1,1 @@
-# sintaxe_basica_JavaScript
+# Sintaxe Básica em JavaScript
